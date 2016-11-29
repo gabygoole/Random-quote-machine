@@ -1,0 +1,59 @@
+body {
+    background: #996699;
+    padding: 110px;;
+}
+
+.background-cover {
+    background: white;
+    width: 500px;
+    margin: 0 auto;
+}
+
+.box {
+    width: 500px;
+    margin: 0 auto;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.6);
+}
+
+.quote-text {
+    font-size: 2em;
+    padding:10px;
+}
+
+.caption {
+    padding:50px;
+    /*text-align: center;*/
+}
+
+#left {
+    float: left;
+}
+
+#right {
+    float: right;
+}
+
+.quote-author {
+    font-size: 1.2em;
+    text-align: right;
+    /*border: #a48aff solid 2px;*/
+    font-style: italic;
+}
+
+#author {
+    margin-right: 10px;
+}
+
+/*hr {*/
+    /*color: black;*/
+/*}*/
+
+p {
+    /*margin-left:10px;*/
+    padding-left: 20px;
+}
+
+.h-line {
+    margin:0 auto;
+    border: 1px outset rgba(255,255,255,0.2);
+}
