@@ -1,0 +1,1 @@
+This is a random quote machine.And I use this API https://quotesondesign.com/api-v4-0/ to accomplish this project.
